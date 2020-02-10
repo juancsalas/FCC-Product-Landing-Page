@@ -1,3 +1,7 @@
+header{
+    position: fixed;
+}
+
 .footer {
     list-style-type: none;
 }
